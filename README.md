@@ -1,5 +1,5 @@
-# Project Name- FarmProject
-> "Farm Project" is a program in the form of a text game simulating the work of a farm owner.
+# Project Name
+> FarmProject
 
 ## Table of contents
 * [General Information](#general-information)
@@ -44,7 +44,7 @@ In each round, you can do any of the following any number of times:
 - Add support for fluctuations in the selling price of agricultural products (10%) - the price can fluctuate randomly, you can sell the crops right after the harvest or store them for a while and wait for a better opportunity.
 
 ## Screenshots
-Sample screenshots showing the operation of the console game:
+Sample screenshots showing the operation of the console game.
 
 Menu view after selecting the number of players:
 ![Menu](/images/menu.PNG)
